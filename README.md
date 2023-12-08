@@ -1,5 +1,4 @@
 <div style="display: flex; justify-content: space-between;">
-  <div>
     <p align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=akito-0520&show_icons=true&locale=ja" alt="akito-0520" />
     </p>
@@ -9,7 +8,6 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akito-0520&hide=jupyter%20notebook,shaderlab,tex,c%23&langs_count=9" />
       </a>
     </p>
-  </div>
 </div>
 
 <p align="left">
