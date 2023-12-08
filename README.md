@@ -1,4 +1,4 @@
-<div style="display: flex; justify-content: space-between;">
+<div style="justify-content: space-between;">
   <div>
     <p align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=akito-0520&show_icons=true&locale=ja" alt="akito-0520" />
