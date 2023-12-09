@@ -10,3 +10,9 @@
     <img src="https://github-profile-trophy.vercel.app/?username=akito-0520" alt="akito-0520" />
   </a>
 </p>
+
+<h1>2023</h1>
+<p>Jan 6 - プレDCON 最優秀</p>
+<p>Mar 11 - AI-STEP 優秀賞</p>
+<p>Oct 14~15 高専プロコン出場</p>
+<p>Dec 9 高専インカレ 最優秀</p>
