@@ -13,6 +13,6 @@
 
 <h1>2023</h1>
 <li>Jan 6 - プレDCON 最優秀</li>
-<li>Mar 11 - AI-STEP 奨励賞</li>
+<li>Mar 11 - 第1回AI-STEP 奨励賞</li>
 <li>Oct 14~15 - 高専プロコン出場</li>
 <li>Dec 9 - 高専インカレ 最優秀</li>
