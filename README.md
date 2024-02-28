@@ -14,7 +14,7 @@
     Used
 </h1>
 
-[![My Skills](https://skillicons.dev/icons?i=arduino,c,css,html,java,js,mysql,php,py,react,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,css,html,java,js,mysql,php,py,react,arduino)](https://skillicons.dev)
 
 <h1>2023</h1>
 <li>Jan 6 - プレDCON 最優秀</li>
