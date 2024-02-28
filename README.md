@@ -10,7 +10,9 @@
     <img src="https://github-profile-trophy.vercel.app/?username=akito-0520" alt="akito-0520" />
   </a>
 </p>
-
+<h1>
+    Used
+</h1>
 [![My Skills](https://skillicons.dev/icons?i=bootstrap,blender,cs,dotnet,visualstudio,html,css,django,eclipse,electron,express,figma,firebase,flask,heroku,idea,java,jquery,linux,mongodb,mysql,planetscale,postgres,powershell,py,redux,supabase,svg,vercel,wordpress)](https://skillicons.dev)
 
 <h1>2023</h1>
