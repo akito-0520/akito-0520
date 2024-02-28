@@ -13,7 +13,8 @@
 <h1>
     Used
 </h1>
-[![My Skills](https://skillicons.dev/icons?i=bootstrap,blender,cs,dotnet,visualstudio,html,css,django,eclipse,electron,express,figma,firebase,flask,heroku,idea,java,jquery,linux,mongodb,mysql,planetscale,postgres,powershell,py,redux,supabase,svg,vercel,wordpress)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=arduino,c,css,html,java,js,mysql,php,py,react,)](https://skillicons.dev)
 
 <h1>2023</h1>
 <li>Jan 6 - プレDCON 最優秀</li>
