@@ -25,6 +25,8 @@
 <li>
     <div>
     Dec 9 - 高専インカレ 最優秀 
+    </div>
+    <div>
     https://www.smbcnikko.co.jp/news/release/2023/pdf/231218_01.pdf
     </div>
 </li>
