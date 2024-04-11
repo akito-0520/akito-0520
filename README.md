@@ -1,6 +1,6 @@
 ![統計](https://github-readme-stats.vercel.app/api?username=akito-0520&count_private=true&show_icons=true&locale=ja)
 ![最も使用した言語](https://github-readme-stats.vercel.app/api/top-langs/?username=akito-0520&hide=jupyter%20notebook,shaderlab,tex,c%23&langs_count=9&locale=ja)
-![akito-0520's GitHub Trophy](https://github-profile-trophy.vercel.app/?username=akito-0520)(https://github.com/ryo-ma/github-profile-trophy)
+![akito-0520's GitHub Trophy](https://github-profile-trophy.vercel.app/?username=akito-0520)
 # Used
 [![My Skills](https://skillicons.dev/icons?i=c,css,html,java,js,mysql,php,py,react,arduino)](https://skillicons.dev)
 # 2023
