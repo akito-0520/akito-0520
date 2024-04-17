@@ -10,4 +10,4 @@
 - Dec 9 - 高専インカレ 最優秀 [詳細](https://www.smbcnikko.co.jp/news/release/2023/pdf/231218_01.pdf)
 # 2024
 - Feb 25 - Tokyo OSS Party!! 3位
-- Mar 25~27 - AsianChallengeCup 出場 [詳細](https://github.com/AsianBridge/acc001_team_c.git)
+- Mar 25~27 - AsianChallengeCup 出場 [Ripository](https://github.com/AsianBridge/acc001_team_c.git) [記事](https://qiita.com/akito-0520/items/7505a32388823a6a939b)
