@@ -7,7 +7,7 @@
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=akito-0520&theme=dark&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=akito-0520&theme=dark&hide_border=true)
 
 <br>
 
