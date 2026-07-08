@@ -6,14 +6,10 @@
 高専時代は陸上競技部に5年間所属し、全国高専大会にリレーメンバーとして3度出場。並行してハッカソンなどの開発イベントに参加し、「継続する力」と「探究心」を養いました。
 
 <div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=akito-0520&theme=dark&hide_border=true)
-
-<br>
-
-![統計](https://github-stats-extended.vercel.app/api?username=akito-0520&count_private=true&show_icons=true&locale=ja)
-![最も使用した言語](https://github-stats-extended.vercel.app/api/top-langs/?username=akito-0520&hide=jupyter%20notebook,shaderlab,tex,c%23&langs_count=9&locale=ja)
-
+  <img height="170" alt="GitHub 統計" src="https://github-stats-extended.vercel.app/api?username=akito-0520&count_private=true&show_icons=true&locale=ja&theme=dark&hide_border=true" />
+  <img height="170" alt="最も使用した言語" src="https://github-stats-extended.vercel.app/api/top-langs/?username=akito-0520&hide=jupyter%20notebook,shaderlab,tex,c%23&langs_count=9&locale=ja&layout=compact&theme=dark&hide_border=true" />
+  <br><br>
+  <img height="170" alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=akito-0520&theme=dark&hide_border=true" />
 </div>
 
 ## 🛠 Skills
