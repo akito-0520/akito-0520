@@ -3,8 +3,6 @@
 高専でソフトウェア開発を学んだエンジニアです。ものづくりで誰かの課題を解決し、喜んでもらえる瞬間に最大のやりがいを感じています。
 インターンではフロントエンド開発、個人開発ではフルスタック領域に従事し、「使い心地にこだわったプロダクト」を目指しています。
 
-高専時代は陸上競技部に5年間所属し、全国高専大会にリレーメンバーとして3度出場。並行してハッカソンなどの開発イベントに参加し、「継続する力」と「探究心」を養いました。
-
 <div align="center">
   <img height="170" alt="GitHub 統計" src="https://github-stats-extended.vercel.app/api?username=akito-0520&count_private=true&show_icons=true&locale=ja&theme=dark&hide_border=true" />
   <img height="170" alt="最も使用した言語" src="https://github-stats-extended.vercel.app/api/top-langs/?username=akito-0520&hide=jupyter%20notebook,shaderlab,tex,c%23&langs_count=9&locale=ja&layout=compact&theme=dark&hide_border=true" />
